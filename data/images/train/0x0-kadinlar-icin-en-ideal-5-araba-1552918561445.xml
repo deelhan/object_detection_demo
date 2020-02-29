@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0x0-kadinlar-icin-en-ideal-5-araba-1552918561445.jpg</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\0x0-kadinlar-icin-en-ideal-5-araba-1552918561445.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>37</xmin>
+			<ymin>46</ymin>
+			<xmax>582</xmax>
+			<ymax>340</ymax>
+		</bndbox>
+	</object>
+</annotation>

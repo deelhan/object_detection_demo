@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>en-iyi-hatchback-otomobiller-2019.png</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\en-iyi-hatchback-otomobiller-2019.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>737</width>
+		<height>465</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>115</ymin>
+			<xmax>701</xmax>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gurcistan_araba_fiyatlari_ve_gurcistan_ikinci_el_araba_h3508.jpg</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\gurcistan_araba_fiyatlari_ve_gurcistan_ikinci_el_araba_h3508.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>0</width>
+		<height>0</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>63</ymin>
+			<xmax>622</xmax>
+			<ymax>311</ymax>
+		</bndbox>
+	</object>
+</annotation>

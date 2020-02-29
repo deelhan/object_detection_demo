@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>602x338_cmsv2_65187809-ced6-5e7d-8c1e-5e4e48b83c0a-3300868.jpg</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\602x338_cmsv2_65187809-ced6-5e7d-8c1e-5e4e48b83c0a-3300868.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>602</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>73</ymin>
+			<xmax>553</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>

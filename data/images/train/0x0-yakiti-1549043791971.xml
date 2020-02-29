@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>0x0-yakiti-1549043791971.jpg</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\0x0-yakiti-1549043791971.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>404</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>35</ymin>
+			<xmax>584</xmax>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>1.0-motor-araba-1280x720.jpg</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\train\1.0-motor-araba-1280x720.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>146</xmin>
+			<ymin>98</ymin>
+			<xmax>1169</xmax>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>
