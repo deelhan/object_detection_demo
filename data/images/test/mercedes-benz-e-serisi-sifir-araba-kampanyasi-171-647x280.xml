@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>mercedes-benz-e-serisi-sifir-araba-kampanyasi-171-647x280.png</filename>
+	<path>C:\Users\deelh\OneDrive\Masaüstü\data\images\test\mercedes-benz-e-serisi-sifir-araba-kampanyasi-171-647x280.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>647</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>52</ymin>
+			<xmax>535</xmax>
+			<ymax>280</ymax>
+		</bndbox>
+	</object>
+</annotation>
